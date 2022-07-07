@@ -138,4 +138,4 @@ As you are working, you may be adding, editing and removing files. But whenever 
 
 **Staged** files are files that are ready to be **committed** to the repository you are working on. You will learn more about <font face="courier" style="color:coral">commit</font> shortly.
 
-For now, we are done working with <div><font face="courier" style="color:coral">index.html</font></div>. So we can add it to the Staging Environment:
+For now, we are done working with <div face="courier" style="color:coral">index.html</div>. So we can add it to the Staging Environment:
