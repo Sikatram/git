@@ -4,6 +4,7 @@ This markdown explains how to use Git and how to use it on remote repository pla
 
 # Table of Contents
 * [Git and GitHub Introduction](#git-and-github-introduction)
+* [Git Getting Started](#git-getting-started)
 ## References
 * [Git Tutorial](https://www.w3schools.com/git/default.asp)
 * [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/ "How to Write Good Commit Messages: A Practical Git Guide")
@@ -24,7 +25,7 @@ It is used for:
 ## What does Git do?
 * Manage projects with **Repositories**
 * **Clone** a project to work on a local copy
-* Control and track chagnes with **Staging** and **Committing**
+* Control and track changes with **Staging** and **Committing**
 * **Branch** and **Merge** to allow for work on different parts and versions of a project
 * **Pull** the latest version of the project to a local copy
 * **Push** local updates to the main project
@@ -48,7 +49,7 @@ It is used for:
 ## What is GitHub?
 * Git is not the same as GitHub
 * GitHub makes tools that use Git
-* gitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018
+* GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018
 # Git Getting Started
 
 ## Git Install
